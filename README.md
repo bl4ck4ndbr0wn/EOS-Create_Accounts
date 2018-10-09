@@ -45,11 +45,9 @@ You will use the EOS PUBLIC key you generated during the account signup process 
 - $5 Api url for an active block producer.
 
 ```bash
-$
+  $ chmod +x create-account.sh create-keys.sh   # Makes file executable.
 
-$ chmod +x create-account.sh create-keys.sh   # Makes file executable.
+  $ ./create-keys # Generate EOS prublic and private key to be used with new account.
 
-$ ./create-keys # Generate EOS prublic and private key to be used with new account.
-
-$ ./create-account.sh $1 $2 $3 $4 $5
+  $ ./create-account.sh $1 $2 $3 $4 $5
 ```
