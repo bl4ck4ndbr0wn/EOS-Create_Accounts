@@ -14,17 +14,17 @@ In every case, it will be a two step process:
 
 An EOS keypair will look something like this:
 
-## **\*\***\*\*\***\*\***Do not use this key! For example purposes only!**\*\***\*\*\***\*\***
+### **\*\***\*\*\***\*\***Do not use this key! For example purposes only!**\*\***\*\*\***\*\***
 
-## EOS PUBLIC KEY:
+### EOS PUBLIC KEY:
 
 EOS7LVHJBJNWdZG8bXcNZQZRn5Riufn6KpeVDSK337Tbj7vCwEWAJ
 
-## Private Key:
+### Private Key:
 
 5KNuHZJDNACPQFHZ6EkpfpiqypCUyLczbnnkCdF5bGd2X3tpBfk
 
-## **\*\***\*\*\***\*\***Do not use this key! For example purposes only!**\*\***\*\*\***\*\***
+### **\*\***\*\*\***\*\***Do not use this key! For example purposes only!**\*\***\*\*\***\*\***
 
 They can be generated with the following tools: _ EOSKEY (offline key generator, easy to use, recommended for maximum security) _ Scatter (Chrome extension, recommended for daily use) _ Offline using official EOSIO code _ Cleos (Official wallet by Block.one but command line tool, only for advanced users) \* Simple javascript generator (easiest to use but be careful)
 
