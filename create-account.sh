@@ -25,7 +25,8 @@ API=$5
 # $1 New EOS Account Name
 # $2 First generated public key for the account. Owner key
 # $3 Second generated public key. Active key
-# $4 Api url for an active block producer.
+# $4 EOS Account creator.Must already have and EOS account.
+# $5 Api url for an active block producer.
 
 
 echo "=== Setup Account: Create new Account==="

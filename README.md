@@ -34,8 +34,18 @@ You will use the EOS PUBLIC key you generated during the account signup process 
 
 # How to use
 
-```
-$ chmod +x create-account.sh   // Makes file executable.
+- $1 New EOS Account Name
 
-$ ./create-account.sh <USERNAME> <EOS PUBLIC KEY>
+- $2 First generated public key for the account. Owner key
+
+- $3 Second generated public key. Active key
+
+- $4 EOS Account creator.Must already have and EOS account.
+
+- $5 Api url for an active block producer.
+
+```bash
+$ chmod +x create-account.sh   # Makes file executable.
+
+$ ./create-account.sh $1 $2 $3 $4 $5
 ```
